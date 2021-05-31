@@ -1,0 +1,32 @@
+#bg-hero {
+    width: 25vw;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+}
+
+h3,
+h4,
+h5,
+a {
+    font-weight: 600;
+    color: #343a40;
+}
+
+body {
+    font-family: "Comic Neue", cursive;
+}
+
+.color-boton {
+    background: #cd0104;
+}
+
+a {
+    color: #cd0104;
+}
+
+a:hover {
+    color: #fcd802;
+}
